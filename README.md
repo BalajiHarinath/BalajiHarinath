@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am currently working as a software engineer at Moog also learning web development at [neogCamp](https://neog.camp/). 
-I am exploring web development and have made few projects to keep building the learning curve. 
+I am currently working as a software engineer at Moog and also learning web development at [neogCamp](https://neog.camp/). 
+I am exploring web development and have made few projects to strengthen my learning. 
 
 
 - 😄 Pronouns: He/Him
@@ -23,10 +23,10 @@ I am exploring web development and have made few projects to keep building the l
   <tr>
     <td width="50%">
 <!-- BLOG-POST-LIST:START -->
-- [UseRef hook in react js](https://balajiharinath.hashnode.dev/useref-hook-in-react)
-- [Async and Defer attributes in Javascript](https://balajiharinath.hashnode.dev/async-and-defer-attributes-in-javascript)
-- [Generators in Javascript](https://balajiharinath.hashnode.dev/generators-in-javascript)
-- [CSS Flexbox properties](https://balajiharinath.hashnode.dev/css-flexbox-properties)
+[UseRef hook in react js](https://balajiharinath.hashnode.dev/useref-hook-in-react)
+[Async and Defer attributes in Javascript](https://balajiharinath.hashnode.dev/async-and-defer-attributes-in-javascript)
+[Generators in Javascript](https://balajiharinath.hashnode.dev/generators-in-javascript)
+[CSS Flexbox properties](https://balajiharinath.hashnode.dev/css-flexbox-properties)
 <!-- BLOG-POST-LIST:END -->
  
 </td>
