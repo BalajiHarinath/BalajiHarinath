@@ -20,12 +20,12 @@ I am exploring web development and have made few projects to strengthen my learn
 
 ## ✍️ Recent Blog Posts
 <ul>
-<!-- BLOG-POST-LIST:START -->
-  <li>[UseRef hook in react js](https://balajiharinath.hashnode.dev/useref-hook-in-react)</li>
- <li>[Async and Defer attributes in Javascript](https://balajiharinath.hashnode.dev/async-and-defer-attributes-in-javascript)</li>
- <li>[Generators in Javascript](https://balajiharinath.hashnode.dev/generators-in-javascript)</li>
- <li>[CSS Flexbox properties](https://balajiharinath.hashnode.dev/css-flexbox-properties)</li>
+  <li>https://balajiharinath.hashnode.dev/useref-hook-in-react</li>
+  <li>https://balajiharinath.hashnode.dev/async-and-defer-attributes-in-javascript</li>
+  <li>https://balajiharinath.hashnode.dev/generators-in-javascript</li>
+  <li>https://balajiharinath.hashnode.dev/css-flexbox-properties</li>
 </ul>
+
 
 ## 🌍 Find Around The Web
 <a href="https://twitter.com/balaji_harinath"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
