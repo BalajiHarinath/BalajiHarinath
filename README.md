@@ -20,8 +20,7 @@ I am exploring web development and have made few projects to strengthen my learn
 
 ## ✍️ Recent Blog Posts
 <table align="center">
-  <tr>
-    <td width="50%">
+
 <!-- BLOG-POST-LIST:START -->
 [UseRef hook in react js](https://balajiharinath.hashnode.dev/useref-hook-in-react)
 [Async and Defer attributes in Javascript](https://balajiharinath.hashnode.dev/async-and-defer-attributes-in-javascript)
@@ -29,8 +28,6 @@ I am exploring web development and have made few projects to strengthen my learn
 [CSS Flexbox properties](https://balajiharinath.hashnode.dev/css-flexbox-properties)
 <!-- BLOG-POST-LIST:END -->
  
-</td>
-  </tr>
 </table>
 
 ## 🌍 Find Around The Web
