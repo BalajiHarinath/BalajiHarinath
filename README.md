@@ -19,16 +19,13 @@ I am exploring web development and have made few projects to strengthen my learn
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## ✍️ Recent Blog Posts
-<table align="center">
 
 <!-- BLOG-POST-LIST:START -->
 [UseRef hook in react js](https://balajiharinath.hashnode.dev/useref-hook-in-react)
 [Async and Defer attributes in Javascript](https://balajiharinath.hashnode.dev/async-and-defer-attributes-in-javascript)
 [Generators in Javascript](https://balajiharinath.hashnode.dev/generators-in-javascript)
 [CSS Flexbox properties](https://balajiharinath.hashnode.dev/css-flexbox-properties)
-<!-- BLOG-POST-LIST:END -->
- 
-</table>
+
 
 ## 🌍 Find Around The Web
 <a href="https://twitter.com/balaji_harinath"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
