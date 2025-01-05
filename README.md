@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am currently working as a software engineer at Moog and also learning web development at [neogCamp](https://neog.camp/). 
-I am exploring web development and have made few projects to strengthen my learning. 
+I am currently working as a Senior Software Engineer at RealOne. Previously I have worked at GeekyAnts and Moog.
+I am exploring web development and have made few projects to strengthen my learning. I specialize in backend technologies like Node.js, GraphQL and microservices architecture.I thrive on challenges and continuously seek to push the boundaries of technology while staying updated with the latest advancements in backend development.
 
 
 - 😄 Pronouns: He/Him
